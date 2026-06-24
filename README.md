@@ -9,17 +9,26 @@ I build scalable backend systems, architect autonomous AI agents and workflow au
   * Engineered an automated AI meeting booking agent utilizing LLMs and CRM context, surging booked rates from 16% to over 60%.
   * Deployed a fully autonomous AI Agent (Hermes) on Azure VMs, integrating Slack, MongoDB, and Fireflies MCPs to automate complex business queries.
   * Pioneered backend CI/CD infrastructure with GitHub Actions and an AI-automated testing pipeline.
+  * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest" />
+
 * **Software Engineer Intern @ Rachana Finance Pvt Ltd**:
   * Architected an optimized asynchronous task queue using Redis Streams and WebSockets, eliminating redundant API calls by an estimated 30-40%.
   * Designed a microservices architecture that decoupled heavy LLM transcription tasks from lightweight queries to support 50+ concurrent users.
+  * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSockets" />
 
 ### 🌍 Open Source Contributions
 * **Google DeepMind (Concordia):** Authored and merged Pull Requests to migrate the Gemini API integration to a unified SDK. <img src="https://img.shields.io/badge/Google_DeepMind-4285F4?style=flat&logo=google&logoColor=white" alt="Google" valign="middle" />
 * **Hermes Agent:** Updated sparse documentation to clarify Slack thread commands, officially documenting the required use of `!` instead of `/` for thread interactions. <img src="https://img.shields.io/badge/Hermes_Agent-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" valign="middle" />
 
 ### 🛠️ Featured Projects
-* **PolyChat:** Built an AI-powered real-time chat platform (MERN, Socket.io) with dynamic cross-lingual translation, delivering 90%+ translation accuracy.
-* **Conversational Text-to-SQL Agent:** Engineered a full-stack platform (Flask, Streamlit) utilizing a multi-layered Gemini API pipeline with dynamic schema injection.
+* **PolyChat:** Built an AI-powered real-time chat platform with dynamic cross-lingual translation, sustaining concurrent users without latency spikes and delivering 90%+ translation accuracy.
+  * <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" />
+
+* **Conversational Text-to-SQL Agent:** Engineered a full-stack platform utilizing a multi-layered Gemini API pipeline with dynamic schema injection, automated summarization, and Pandas chart rendering.
+  * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+
+* **VM & Remote Access Detection Tool (IICPC Anti-Cheat):** Built a low-level system utility leveraging Windows APIs, RDTSC jitter, and registry artifact analysis to effectively detect virtualized environments. Secured a Top 10 finish at the IICPC Dev Hackathon 2025.
+  * <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows API" />
 
 ### 🧠 Competitive Programming & Hackathons
 * **LeetCode:** Knight Rating (2024)
