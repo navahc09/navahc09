@@ -2,14 +2,14 @@
 
 🚀 **Backend Systems | AI Agents | Competitive Programming**
 
-Building scalable and reliable backend systems, designing and deploying autonomous AI Agents and automations, and solving complex algorithmic problems. Currently pursuing a B.E. in IT at PICT, Pune.
+I build scalable backend systems, architect autonomous AI agents and workflow automations, and solve complex algorithmic problems. Currently pursuing a B.E. in IT at PICT, Pune.
 
 ### 💻 Experience
-* **Backend Engineering Intern @Pipeline AI**: 
+* **Backend Engineering Intern @ Pipeline AI**: 
   * Engineered an automated AI meeting booking agent utilizing LLMs and CRM context, surging booked rates from 16% to over 60%.
   * Deployed a fully autonomous AI Agent (Hermes) on Azure VMs, integrating Slack, MongoDB, and Fireflies MCPs to automate complex business queries.
   * Pioneered backend CI/CD infrastructure with GitHub Actions and an AI-automated testing pipeline.
-* **Software Engineer Intern @Rachana Finance Pvt Ltd**:
+* **Software Engineer Intern @ Rachana Finance Pvt Ltd**:
   * Architected an optimized asynchronous task queue using Redis Streams and WebSockets, eliminating redundant API calls by an estimated 30-40%.
   * Designed a microservices architecture that decoupled heavy LLM transcription tasks from lightweight queries to support 50+ concurrent users.
 
