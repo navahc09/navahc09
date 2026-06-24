@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shubham Chavan
 
-🚀 **Backend Engineer | AI Agent Architect | Competitive Programmer**
+🚀 **Backend Systems | AI Agents | Competitive Programming**
 
 I build scalable microservices, design autonomous AI workflow automations, and solve complex algorithmic problems. I am currently pursuing a Bachelor of Engineering in Information Technology at the Pune Institute of Computer Technology.
 
